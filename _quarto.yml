@@ -34,7 +34,7 @@ website:
 
 format:
   html:
-    theme: [litera, styles.scss]
+    theme: [yeti, styles.scss]
     toc: true
     lang: en-IE
     link-external-newwindow: true
