@@ -1,0 +1,12 @@
+/*-- scss:defaults --*/
+$font-size-base: 1.05rem;
+$line-height-base: 1.6;
+
+/*-- scss:rules --*/
+// Unfilled placeholders stand out on screen (see check-placeholders.sh)
+.placeholder, mark {
+  background: #fff3a3;
+  padding: 0 .2em;
+}
+
+.callout-note .callout-title-container { font-weight: 600; }

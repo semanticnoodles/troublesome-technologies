@@ -1,0 +1,39 @@
+# Single source of truth for study details.
+# Used in pages as {{< var study.title >}}, {{< var ethics.ref >}}, etc.
+# FOR A NEW PROJECT: change the values below, nothing else is project-specific here.
+
+study:
+  title: "Troublesome Technologies and Learning Trajectories in Digital Preservation Practice"
+  short: "Troublesome Technologies"
+
+pi:
+  name: "Assoc. Prof. Amber Cushing"
+  email: "amber.cushing@ucd.ie"
+
+researcher:
+  name: "Dr Giulia Osti"
+  email: "giulia.osti@ucd.ie"
+
+school: "School of Information and Communication Studies"
+university: "University College Dublin"
+
+funder:
+  name: "Taighde Éireann – Research Ireland"
+  grant: "23/RC/13506"
+  centre: "Research Ireland Centre – Rinn Artificial Intelligence"
+
+ethics:
+  body: "UCD Human Research Ethics Committee – Humanities"
+  ref: "197-HS-26-LR-Osti-Cushing"          # fill in once, appears everywhere
+
+data:
+  key_deletion: "the end of February 2027"
+  retention_years: "10"
+  dpo_email: "gdpr@ucd.ie"
+  dpc_url: "https://forms.dataprotection.ie/contact"
+
+site:
+  url: "https://semanticnoodles.github.io/troublesome-technologies/"   # keep the trailing slash
+  survey_url: "ADD LINK"
+  version: "1.0"
+  version_date: "DATE"

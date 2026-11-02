@@ -1,0 +1,7 @@
+**{{< var researcher.name >}}**\
+{{< var school >}}, {{< var university >}}\
+Email: [{{< var researcher.email >}}](mailto:{{< var researcher.email >}})
+
+**{{< var pi.name >}} (Principal Investigator)**\
+{{< var school >}}, {{< var university >}}\
+Email: [{{< var pi.email >}}](mailto:{{< var pi.email >}})

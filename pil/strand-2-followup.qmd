@@ -1,0 +1,11 @@
+---
+title: "Participant Information Leaflet"
+subtitle: "Strand 2: Qualitative follow-up"
+format:
+  html: default
+  typst:
+    papersize: a4
+    margin: { x: 2.2cm, y: 2.2cm }
+---
+
+To be Added

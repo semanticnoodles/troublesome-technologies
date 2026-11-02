@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you refer to these documents, please cite them as below."
+title: "Troublesome Technologies and Learning Trajectories in Digital Preservation Practice: Supporting Materials"
+type: dataset
+authors:
+  - family-names: Osti
+    given-names: Giulia
+    affiliation: "School of Information and Communication Studies, University College Dublin"
+    orcid: "https://orcid.org/0000-0003-3179-6980"
+  - family-names: Cushing
+    given-names: Amber
+    affiliation: "School of Information and Communication Studies, University College Dublin"
+    orcid: "https://orcid.org/0000-0003-0186-0689"
+repository-code: "https://github.com/semanticnoodles/troublesome-technologies"
+version: "1.0"
+# date-released: "YYYY-MM-DD"
+# license: CC-BY-4.0

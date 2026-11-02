@@ -1,0 +1,89 @@
+---
+title: "De-identification Protocol"
+subtitle: "Project-wide"
+format:
+  html: default
+  typst:
+    papersize: a4
+    margin: { x: 2.2cm, y: 2.2cm }
+
+---
+
+*{{< var study.title >}}*
+
+This protocol applies to both strands. It safeguards the privacy and confidentiality of participant data collected as part of the research study *{{< var study.title >}}*. The definitions are aligned with the General Data Protection Regulation (GDPR)[^1] and guidance from the Data Protection Commission (DPC).[^2]
+
+## Definitions
+
+| Term               | Meaning                                                      |
+| :----------------- | :----------------------------------------------------------- |
+| *Personal data*    | Any information relating to an identified or identifiable natural person. Identifiers include names, identification numbers, location data, online identifiers, or factors specific to physical, genetic, mental, economic, cultural, or social identity. |
+| *Pseudonymisation* | The processing of personal data in such a manner that the data can no longer be attributed to a specific data subject without the use of additional information. This additional information must be kept separately and subject to technical and organisational measures to prevent re-identification. |
+| *Anonymisation*    | An irreversible process that alters data so that the individual is no longer identifiable under any reasonable circumstances. While not explicitly defined in the GDPR text, anonymised data falls outside the scope of data protection legislation. |
+
+## De-identification procedures
+
+To adhere to data minimisation principles, the online survey collects no personal contact details other than an email address, which participants may voluntarily provide to take part in the follow-up research stage; names are collected only from participants invited to the interview stage. Each participant is assigned a sequential Participant Identification number (PID) based on survey completion. Key pairs linking PIDs to personal identifiers (such as name and email address) will be securely stored on a password-protected UCD cloud-based storage (Microsoft OneDrive) using multi-factor authentication, with access strictly governed by the principle of least privilege, restricting access exclusively to the PI and her collaborator. Data is stored in compliance with UCD IT security policies and hosted in secure European data centres (EEA) under UCD's institutional data protection agreement with the service provider. The key pairs file will be permanently erased within 30 days of the conclusion of Strand 2 data collection ([by {{< var data.key_deletion >}}]{.mark}).
+
+## Protocol
+
+This protocol ensures the protection of personal information and sensitive institutional details in research materials while maintaining enough context to allow a proper in-depth analysis. Upon explicit request, participants will be granted the option to review the de-identified written reflection and/or interview transcript to ensure their privacy is kept.
+
+| Element                          | Rule                                                         |
+| :------------------------------- | :----------------------------------------------------------- |
+| *Personal information*           | Participant names are replaced with standardised alphanumeric codes (e.g., PID020). |
+| *Colleagues and personnel*       | Non-participant individuals mentioned in text or transcripts are anonymised by omitting names and/or substituting functional roles (e.g., COLLECTIONS MANAGER), to preserve maximum fidelity to the source. |
+| *Institutions and organisations* | Specific names of entities (e.g., libraries, museums, universities, companies, funding bodies, projects, or consortia) are omitted or replaced with broad category placeholders such as MUSEUM, UNIVERSITY, INDUSTRIAL PARTNER, SPONSOR, or PROJECT. |
+| *Locations*                      | Specific cities or precise geographical indicators are omitted or replaced with placeholders like LOCATION, TOWN, MUNICIPALITY. Broader geographic contexts (such as countries) may be retained if they do not compromise anonymity. |
+| *Ellipses*                       | Square brackets containing ellipses (\[...\]) signify where specific identifying details or context have been omitted to preserve confidentiality without disrupting narrative continuity. |
+
+## Application examples
+
+The sample responses below, including all names, email addresses, specific organisational roles, project identifiers, and locations, are fictional examples artificially generated using Google Gemini 3.6 Flash solely for the purpose of demonstrating the enforcement of the protocol.
+
+### 1. Online survey (open-ended questions)
+
+#### Example A
+
+*Original:* "When I was working as a Senior Archival Specialist at the [Bodleian Libraries]{.underline} in [Oxford]{.underline} between 2018 and 2021, I struggled heavily with setting up and configuring Archivematica (specifically version 1.7, which we had to run on an Ubuntu 16.04 server). My supervisor, [Dr Marcus Vance]{.underline}, asked me to integrate it with our local DSpace repository..."
+
+*De-identified version:* "When I was working as a Senior Archival Specialist at the UNIVERSITY LIBRARY (UK) \[...\] between 2018 and 2021, I struggled heavily with setting up and configuring Archivematica (specifically version 1.7, which we had to run on an Ubuntu 16.04 server). My SUPERVISOR asked me to integrate it with our local DSpace repository..." In this instance, all references to specific locations and names have been omitted while preserving their participant's role to ensure anonymity.
+
+#### Example B
+
+*Original:* "The primary difficulty stemmed from the complex XML configuration files for the METS/PREMIS metadata generation and rigid Micro-services architecture. Because our legacy digital collection—specifically the [*Evelyn Waugh Correspondence Collection (1930–1950)*]{.underline}—had non-standard directory structures created back in 2012 by my predecessor, [Julian Ross]{.underline}, the automated ingest pipelines kept failing at the normalization step."
+
+*De-identified version:* "The primary difficulty stemmed from the complex XML configuration files for the METS/PREMIS metadata generation and rigid Micro-services architecture. Because our legacy digital collection—specifically the SPECIAL COLLECTION \[...\]—had non-standard directory structures created back in 2012 by my PREDECESSOR, the automated ingest pipelines kept failing at the normalization step."
+
+### 2. Written Reflections
+
+#### Example A
+
+*Original:* "I heard you're taking over the automated web archiving transformations for the [Bristol City Council]{.underline} contract. Since I spent most of October 2023 pulling my hair out over Preservica Enterprise Cloud, I wanted to write down a few things I wish someone had told me on day one. When [Heritage Data Solutions]{.underline} won the Council contract under [David Miller]{.underline}'s oversight, I was expecting Preservica to have a modern, drag-and-drop workflow builder. Instead, I discovered that customising ingest pipelines for large-scale WARC files required building complex, nested XML logic manually through their API endpoints."
+
+*De-identified version:* "I heard you're taking over the automated web archiving transformations for the CITY COUNCIL (United Kingdom) contract. Since I spent most of October 2023 pulling my hair out over Preservica Enterprise Cloud, I wanted to write down a few things I wish someone had told me on day one. When INDUSTRIAL PARTNER won the Council contract under PROJECT LEAD's oversight, I was expecting Preservica to have a modern, drag-and-drop workflow builder. Instead, I discovered that customising ingest pipelines for large-scale WARC files required building complex, nested XML logic manually through their API endpoints."
+
+#### Example B
+
+*Original:* "I heard you're taking over the digital forensics workflow for the [Dr Arthur Pendelton]{.underline} collection. As I spent most of late 2021 battling BitCurator on that exact project, I wanted to pass along a few survival tips before you dive into the deep end. When I first took on the collection at the [Smithsonian]{.underline} in August 2019, I naively thought running digital forensics would be as simple as inserting media and clicking “extract.” But once [Michael Chang]{.underline} in IT set up my Linux virtual machine with BitCurator 2.0, reality set in fast."
+
+*De-identified version:* "I heard you're taking over the digital forensics workflow for the SPECIAL COLLECTION \[...\]. As I spent most of late 2021 battling BitCurator on that exact project, I wanted to pass along a few survival tips before you dive into the deep end. When I first took on the collection at the MUSEUM (United States) in August 2019, I naively thought running digital forensics would be as simple as inserting media and clicking 'extract.' But once IT STAFF set up my Linux virtual machine (\[...\]) with BitCurator 2.0, reality set in fast."
+
+### 3. Interview Transcripts
+
+#### Example A
+
+*Original:* "[Marcus Thorne]{.underline}: For me, the prior experiences that helped were less about software and more about systems troubleshooting and high-pressure project management. Before I joined [Heritage Data Solutions]{.underline} in Bristol, I spent three years as a Digital Records Officer at the [Bath & North East Somerset Council]{.underline}, working under a project director named Jonathan Hayes. Back in 2020..."
+
+*De-identified version:* "**PID020:** For me, the prior experiences that helped were less about software and more about systems troubleshooting and high-pressure project management. Before I joined INDUSTRIAL PARTNER in LOCATION (United Kingdom), I spent three years as a Digital Records Officer at the LOCAL COUNCIL (United Kingdom), working under a PROJECT DIRECTOR \[...\]. Back in 2020..."
+
+#### Example B
+
+*Original:* "[Eleanor Vance:]{.underline} The second key experience was an introductory Python and Bash command-line module I had taken during my MA at UCL in 2017, taught by Prof. Alan Greenwood. At the time, I passed the module and immediately went back to traditional archival theory, thinking I'd never need to look at a terminal again. However, when my supervisor, Dr Marcus Vance, asked me to resolve those METS/PREMIS normalisation failures, I wasn't starting entirely from zero. Because of Prof. Greenwood's class, terminal commands didn't look like complete gibberish to me..."
+
+*De-identified version:* "**PID115:** The second key experience was an introductory Python and Bash command-line module I had taken during my MA at UNIVERSITY (United Kingdom) in 2017, taught by PROFESSOR. At the time, I passed the module and immediately went back to traditional archival theory, thinking I'd never need to look at a terminal again. However, when my SUPERVISOR asked me to resolve those METS/PREMIS normalisation failures, I wasn't starting entirely from zero. Because of PROFESSOR's class, terminal commands didn't look like complete gibberish to me..."
+
+[^1]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the Protection of Natural Persons with Regard to the Processing of Personal Data and on the Free Movement of Such Data, and Repealing Directive 95/46/EC (General Data Protection Regulation) (Text with EEA Relevance), EP, CONSIL, 119/1 OJ L (2016). <http://data.europa.eu/eli/reg/2016/679/oj/eng>.
+
+[^2]: Data Protection Commission. 2019. 'Guidance on Anonymisation and Pseudonymisation'. Data Protection Commission.
+

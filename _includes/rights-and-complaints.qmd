@@ -1,0 +1,32 @@
+## What are my rights?
+
+You are entitled to:
+
+- Withdraw your consent at any time;
+- Object to UCD's use of your personal data or any further use;
+- Request access to your personal data and to receive a copy of it (up to the point of anonymisation);
+- Request inaccurate personal data be corrected or deleted;
+- Request restriction of UCD's use of your personal data (if it is inaccurate); and
+- Request deletion of your data, if no longer needed.
+
+By law, you can exercise the above rights in relation to your personal data unless certain limitations apply, for example where the request would make it impossible or very difficult to conduct the research or put the quality of the research findings at risk (such as after data have been fully anonymised or published).
+
+## Contact details
+
+If you have questions or require reasonable accommodations/adjustments to take part, please contact the research team. If any questions are not answered in a satisfactory manner, contact can be made with the UCD Data Protection Officer. Finally, if none of the UCD contacts have given a satisfactory response, you have the right to lodge a complaint with the Data Protection Commission.
+
+**Project investigators**
+
+**{{< var researcher.name >}}**\
+{{< var school >}}, {{< var university >}}\
+Email: [{{< var researcher.email >}}](mailto:{{< var researcher.email >}})
+
+**{{< var pi.name >}} (Principal Investigator)**\
+{{< var school >}}, {{< var university >}}\
+Email: [{{< var pi.email >}}](mailto:{{< var pi.email >}})
+
+**UCD Data Protection Officer (DPO)**\
+Email: [{{< var data.dpo_email >}}](mailto:{{< var data.dpo_email >}})
+
+**Data Protection Commission (DPC)**\
+Website: <{{< var data.dpc_url >}}>

@@ -1,0 +1,32 @@
+# Quarto working files
+/.quarto/
+*_files/
+.jupyter_cache/
+
+# Personal and study data must never enter this repository
+data/
+keys/
+raw/
+transcripts/
+recordings/
+reflections/
+prompts/
+*PID*
+*key*.csv
+*key*.xlsx
+*.xlsx
+*.csv
+*.mp3
+*.mp4
+*.m4a
+*.wav
+*.vtt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*
+.vscode/
+.idea/
+
+**/*.quarto_ipynb

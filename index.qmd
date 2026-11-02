@@ -1,0 +1,23 @@
+---
+title: "{{< var study.title >}}"
+toc: false
+---
+
+This site hosts the supporting documentation for a research study conducted by {{< var researcher.name >}} and {{< var pi.name >}} (Principal Investigator), {{< var school >}}, {{< var university >}}.
+
+{{< include _includes/ethics-statement.qmd >}}
+
+## Participant information leaflets
+
+- [Strand 1: Online survey](pil/strand-1-survey.qmd)
+- *Strand 2: Qualitative follow-up* (coming soon)
+
+Each leaflet can be read on the destination page or downloaded as a PDF (see "Other Formats" on the right of each leaflet!).
+
+## Protocols
+
+- [De-identification Protocol](protocols/de-identification.qmd)
+
+## Contact
+
+{{< include _includes/contact-details.qmd >}}

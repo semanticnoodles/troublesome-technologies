@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs          # GitHub Pages: Settings > Pages > main / docs
+  render:
+    - index.qmd
+    - pil/*.qmd
+    - protocols/*.qmd
+  resources:
+    - .nojekyll
+
+website:
+  title: "Troublesome Technologies"   # EDIT: short project name (shortcodes are not allowed here)
+  site-url: "https://semanticnoodles.github.io/troublesome-technologies/"   # EDIT
+  repo-url: "https://github.com/semanticnoodles/troublesome-technologies"   # EDIT
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Participant information
+        menu:
+          - href: pil/strand-1-survey.qmd
+            text: "Strand 1: Online survey"
+          - #href: pil/strand-2-followup.qmd
+            #text: "Strand 2: Follow-up"
+        - href: protocols/de-identification.qmd
+        text: De-identification Protocol
+  page-footer:
+    left: "School of Information and Communication Studies, University College Dublin"
+    right: "[Source on GitHub](https://github.com/semanticnoodles/troublesome-technologies)"   # EDIT
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: true
+    lang: en-IE
+    link-external-newwindow: true
+    other-links: []
