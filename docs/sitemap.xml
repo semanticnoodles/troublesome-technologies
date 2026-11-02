@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://semanticnoodles.github.io/troublesome-technologies/index.html</loc>
-    <lastmod>2026-11-02T21:19:39.448Z</lastmod>
+    <loc>https://semanticnoodles.github.io/troublesome-technologies/contacts.html</loc>
+    <lastmod>2026-11-02T21:02:23.466Z</lastmod>
   </url>
   <url>
-    <loc>https://semanticnoodles.github.io/troublesome-technologies/protocols/de-identification.html</loc>
-    <lastmod>2026-11-02T17:19:06.260Z</lastmod>
+    <loc>https://semanticnoodles.github.io/troublesome-technologies/pil/strand-1-survey.html</loc>
+    <lastmod>2026-11-02T17:19:06.245Z</lastmod>
   </url>
   <url>
     <loc>https://semanticnoodles.github.io/troublesome-technologies/pil/strand-2-followup.html</loc>
     <lastmod>2026-11-02T17:19:06.252Z</lastmod>
   </url>
   <url>
-    <loc>https://semanticnoodles.github.io/troublesome-technologies/pil/strand-1-survey.html</loc>
-    <lastmod>2026-11-02T17:19:06.245Z</lastmod>
+    <loc>https://semanticnoodles.github.io/troublesome-technologies/protocols/de-identification.html</loc>
+    <lastmod>2026-11-02T17:19:06.260Z</lastmod>
+  </url>
+  <url>
+    <loc>https://semanticnoodles.github.io/troublesome-technologies/index.html</loc>
+    <lastmod>2026-11-02T21:22:17.488Z</lastmod>
   </url>
 </urlset>

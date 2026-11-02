@@ -3,6 +3,7 @@ project:
   output-dir: docs          # GitHub Pages: Settings > Pages > main / docs
   render:
     - index.qmd
+    - contacts.qmd
     - pil/*.qmd
     - protocols/*.qmd
   resources:

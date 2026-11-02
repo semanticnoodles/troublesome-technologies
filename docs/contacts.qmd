@@ -1,7 +1,0 @@
----
-title: "Contacts"
-format:
-  html: default
----
-
-{{< include _includes/contact-details.qmd >}}

@@ -1,7 +1,7 @@
 ---
 title: "{{< var study.title >}}"
 about: 
-    template: solana
+    template: jolla
     image: imgs/icon-tt.png
     image-width: 10em
     image-shape: round
