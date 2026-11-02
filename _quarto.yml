@@ -14,6 +14,7 @@ website:
   title: "Troublesome Technologies"   # EDIT: short project name (shortcodes are not allowed here)
   site-url: "https://semanticnoodles.github.io/troublesome-technologies/"   # EDIT
   repo-url: "https://github.com/semanticnoodles/troublesome-technologies"   # EDIT
+  favicon: imgs/icon-tt.png
   navbar:
     left:
       - href: index.qmd
