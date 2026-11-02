@@ -3,9 +3,6 @@ title: "Participant Information Leaflet"
 subtitle: "Online Survey (Strand 1)"
 format:
   html: default
-  typst:
-    papersize: a4
-    margin: { x: 2.2cm, y: 2.2cm }
 
 ---
 

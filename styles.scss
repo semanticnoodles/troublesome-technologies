@@ -1,9 +1,19 @@
 /*-- scss:defaults --*/
 $font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-base: $font-family-sans-serif;
 $font-size-base: 1.05rem;
 $line-height-base: 1.6;
 
 /*-- scss:rules --*/
+body,
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 // Unfilled placeholders stand out on screen (see check-placeholders.sh)
 .placeholder, mark {
   background: #fff3a3;
