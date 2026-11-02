@@ -24,6 +24,8 @@ website:
           #   text: "Strand 2: Follow-up"
       - href: protocols/de-identification.qmd
         text: De-identification Protocol
+      - href: contacts.qmd
+        text: Contacts 
   page-footer:
     left: "School of Information and Communication Studies, University College Dublin"
     right: "[Source on GitHub](https://github.com/semanticnoodles/troublesome-technologies)"   # EDIT

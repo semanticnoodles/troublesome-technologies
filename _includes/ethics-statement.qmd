@@ -1,1 +1,3 @@
-This research study has received ethical approval from the {{< var ethics.body >}} [reference number: {{< var ethics.ref >}}]. This work is conducted with the financial support of {{< var funder.name >}}, under grant number {{< var funder.grant >}} at the {{< var funder.centre >}}.
+This research study has received ethical approval from the {{< var ethics.body >}} [reference number: {{< var ethics.ref >}}]. 
+
+This work is conducted with the financial support of {{< var funder.name >}}, under grant number {{< var funder.grant >}} at the {{< var funder.centre >}}.
