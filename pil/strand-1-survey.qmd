@@ -9,6 +9,10 @@ format:
 
 ---
 
+::: {.content-visible when-format="html"}
+<a href="strand-1-survey.pdf" class="btn btn-primary" download>Download the leaflet as PDF</a>
+:::
+
 *{{< var study.title >}}*
 
 ## Introductory statement - invitation to take part
@@ -135,4 +139,3 @@ If you have questions or require reasonable accommodations/adjustments to comple
 - {{< var pi.name >}}: [{{< var pi.email >}}](mailto:{{< var pi.email >}})
 - UCD Data Protection Officer (DPO): [{{< var data.dpo_email >}}](mailto:{{< var data.dpo_email >}})
 - Data Protection Commission (DPC): <{{< var data.dpc_url >}}>
-

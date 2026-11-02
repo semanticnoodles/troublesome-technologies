@@ -16,13 +16,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: Participant information
-        menu:
-          - href: pil/strand-1-survey.qmd
-            text: "Strand 1: Online survey"
-          - #href: pil/strand-2-followup.qmd
-            #text: "Strand 2: Follow-up"
-        - href: protocols/de-identification.qmd
+      - href: pil/strand-1-survey.qmd
+        text: "Participant Information Leaflet (S1)"
+          # - href: pil/strand-2-followup.qmd
+          #   text: "Strand 2: Follow-up"
+      - href: protocols/de-identification.qmd
         text: De-identification Protocol
   page-footer:
     left: "School of Information and Communication Studies, University College Dublin"
@@ -30,7 +28,7 @@ website:
 
 format:
   html:
-    theme: [cosmo, styles.scss]
+    theme: [litera, styles.scss]
     toc: true
     lang: en-IE
     link-external-newwindow: true

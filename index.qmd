@@ -9,14 +9,12 @@ This site hosts the supporting documentation for a research study conducted by {
 
 ## Participant information leaflets
 
-- [Strand 1: Online survey](pil/strand-1-survey.qmd)
+- [Strand 1: Online survey](pil/strand-1-survey.qmd) · <a href="pil/strand-1-survey.pdf" download>Download PDF</a>
 - *Strand 2: Qualitative follow-up* (coming soon)
-
-Each leaflet can be read on the destination page or downloaded as a PDF (see "Other Formats" on the right of each leaflet!).
 
 ## Protocols
 
-- [De-identification Protocol](protocols/de-identification.qmd)
+- [De-identification Protocol](protocols/de-identification.qmd) · <a href="protocols/de-identification.pdf" download>Download PDF</a>
 
 ## Contact
 
