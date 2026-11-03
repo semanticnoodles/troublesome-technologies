@@ -63,4 +63,8 @@ body.home #title-block-header .quarto-title-meta {
     flex-basis: auto;
     width: min(45vw, 9rem);
   }
+
+  a, link {
+    word-break: break-word;
+  }
 }
