@@ -1,18 +1,16 @@
 ---
 title: "{{< var study.title >}}"
-subtitle: Project Website
+subtitle: Supporting Materials
 toc: false
+body-classes: home
 ---
 
-<img href="imgs/icon-tt.png"></img>
-
-This site hosts the supporting documentation for the research project *Troublesome Technologies and Learning Trajectories in Digital Preservation Practice*, conducted by {{< var researcher.name >}} and {{< var pi.name >}} (Principal Investigator), {{< var school >}}, {{< var university >}}.
+This site hosts the supporting documentation for the research project *Troublesome Technologies and Learning Trajectories in Digital Preservation Practice*, conducted by {{< var researcher.name >}} and {{< var pi.name >}}, {{< var school >}}, {{< var university >}}.
 
 This research explores how digital preservation practitioners experience and navigate these learning challenges throughout their professional trajectories. In particular, it seeks to understand what makes particular digital technologies troublesome to learn, how practitioners respond to these difficulties, what strategies and workarounds they develop, and which sources of knowledge and support they draw upon as they build competence.
 
- *Quicklinks*
+All the materials in this repository are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-| Resource | Page | PDF |
-|---|---|---|
-| Participant Information Leaflet — Strand 1: Online survey | [View page](pil/strand-1-survey.qmd) | <a href="pil/strand-1-survey.pdf" class="btn btn-sm btn-outline-primary" download>Download PDF</a> |
-| De-identification Protocol | [View page](protocols/de-identification.qmd) | <a href="protocols/de-identification.pdf" class="btn btn-sm btn-outline-primary" download>Download PDF</a> |
+If you wish to cite the repository at whole:
+
+> Osti, G., & Cushing, A. (2026). *Troublesome Technologies and Learning Trajectories in Digital Preservation Practice* (Version 1.0) [Research materials]. University College Dublin. <https://semanticnoodles.github.io/troublesome-technologies/>

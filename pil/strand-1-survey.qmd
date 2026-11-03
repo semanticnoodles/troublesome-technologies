@@ -20,13 +20,11 @@ Taking part in this research is entirely voluntary. Please review the complete d
 
 ### Contact Details
 
-**{{< var researcher.name >}}**\
-(Research Inquiries)\
+{{< var researcher.name >}}\
 {{< var school >}}, {{< var university >}}\
 Email: [{{< var researcher.email >}}](mailto:{{< var researcher.email >}})
 
-**{{< var pi.name >}}**\
-(Principal Investigator)\
+{{< var pi.name >}}\
 {{< var school >}}, {{< var university >}}\
 Email: [{{< var pi.email >}}](mailto:{{< var pi.email >}})
 

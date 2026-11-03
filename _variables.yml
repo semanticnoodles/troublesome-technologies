@@ -7,11 +7,11 @@ study:
   short: "Troublesome Technologies"
 
 pi:
-  name: "Assoc. Prof. Amber Cushing"
+  name: "<a href='https://orcid.org/0000-0003-0186-0689'>Assoc. Prof. Amber Cushing <img src='/imgs/orcid_16x16.webp' alt='ORCID Logo'/></a> (Principal Investigator)"
   email: "amber.cushing@ucd.ie"
 
 researcher:
-  name: "Dr Giulia Osti"
+  name: "<a href='https://orcid.org/0000-0003-3179-6980'>Dr Giulia Osti <img src='/imgs/orcid_16x16.webp' alt='ORCID Logo'/></a> (Co-investigator / Research Enquiries)"
   email: "giulia.osti@ucd.ie"
 
 school: "School of Information and Communication Studies"

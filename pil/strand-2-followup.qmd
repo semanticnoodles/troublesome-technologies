@@ -1,8 +1,0 @@
----
-title: "Participant Information Leaflet"
-subtitle: "Strand 2: Qualitative follow-up"
-format:
-  html: default
----
-
-To be Added

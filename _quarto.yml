@@ -33,7 +33,7 @@ website:
 
 format:
   html:
-    theme: [default, styles.scss]
+    theme: [lumen, styles.scss]
     toc: true
     lang: en-IE
     link-external-newwindow: true

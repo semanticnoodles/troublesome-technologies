@@ -29,3 +29,38 @@ textarea {
 }
 
 .callout-note .callout-title-container { font-weight: 600; }
+
+body.home #title-block-header {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+body.home #title-block-header::before {
+  content: "";
+  display: block;
+  flex: 0 0 clamp(7rem, 18vw, 13rem);
+  aspect-ratio: 1;
+  background: url("imgs/icon-tt.png") center / contain no-repeat;
+}
+
+body.home #title-block-header .quarto-title {
+  flex: 1;
+  min-width: 0;
+}
+
+body.home #title-block-header .quarto-title-meta {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  body.home #title-block-header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  body.home #title-block-header::before {
+    flex-basis: auto;
+    width: min(45vw, 9rem);
+  }
+}
