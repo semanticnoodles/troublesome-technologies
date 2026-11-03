@@ -10,8 +10,6 @@ format:
 <a href="strand-1-survey.pdf" class="btn btn-primary" download>Download the leaflet as PDF</a>
 :::
 
-*{{< var study.title >}}*
-
 ## Introductory statement - invitation to take part
 
 Do you work in digital preservation—including but not limited to managing repositories, preserving complex formats, configuring metadata schemas, running integrity checks, or building automated ingest workflows? Have you encountered digital technologies or tools that were challenging to master? How did you navigate those learning hurdles, and what strategies, workarounds, or support networks did you rely on?
@@ -65,7 +63,7 @@ You choose which experience to discuss and how much detail to give. You do not n
 
 You may withdraw from the survey at any time prior to submitting the form simply by closing your browser window; incomplete responses are not recorded by the survey platform.
 
-Once submitted, fully anonymous responses cannot be identified or removed. However, if you voluntarily provide your email address to express interest in the follow-up study, your survey answers become pseudonymised. In this case, you may request the removal of your survey answers and/or withdraw your expression of interest at any time before the end of [March 2027]{.mark} (when the linking key is destroyed) by contacting the research team. Withdrawing will have no negative effect on you.
+Once submitted, fully anonymous responses cannot be identified or removed. However, if you voluntarily provide your email address to express interest in the follow-up study, your survey answers become pseudonymised. In this case, you may request the removal of your survey answers and/or withdraw your expression of interest at any time before the end of February 2027 (when the linking key is destroyed) by contacting the research team. Withdrawing will have no negative effect on you.
 
 ## What are the benefits of my participation in this research: to me, to the researchers, and to any third parties involved?
 
@@ -135,4 +133,4 @@ If you have questions or require reasonable accommodations/adjustments to comple
 - Project investigators: {{< var researcher.name >}}: [{{< var researcher.email >}}](mailto:{{< var researcher.email >}})
 - {{< var pi.name >}}: [{{< var pi.email >}}](mailto:{{< var pi.email >}})
 - UCD Data Protection Officer (DPO): [{{< var data.dpo_email >}}](mailto:{{< var data.dpo_email >}})
-- Data Protection Commission (DPC): <{{< var data.dpc_url >}}>
+- Data Protection Commission (DPC): [{{< var data.dpc_url >}}]({{< var data.dpc_url >}})

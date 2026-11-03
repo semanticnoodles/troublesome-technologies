@@ -28,13 +28,12 @@ website:
         text: De-identification Protocol
       - href: contacts.qmd
         text: Contacts 
-  page-footer:
-    left: "School of Information and Communication Studies, University College Dublin"
-    right: "[Source on GitHub](https://github.com/semanticnoodles/troublesome-technologies)"   # EDIT
+  page-footer: "This work is conducted with the financial support of Taighde Éireann – Research Ireland, under grant number 23/RC/13506 at the Research Ireland Centre – Rinn Artificial Intelligence."
+    #right: "[Source on GitHub](https://github.com/semanticnoodles/troublesome-technologies)"   # EDIT
 
 format:
   html:
-    theme: [yeti, styles.scss]
+    theme: [default, styles.scss]
     toc: true
     lang: en-IE
     link-external-newwindow: true

@@ -1,17 +1,16 @@
 ---
 title: "{{< var study.title >}}"
+subtitle: Project Website
 toc: false
 ---
 
-This site hosts the supporting documentation for our research project *Troublesome Technologies and Learning Trajectories in Digital Preservation Practice*, conducted by {{< var researcher.name >}} and {{< var pi.name >}} (Principal Investigator), {{< var school >}}, {{< var university >}}.
+<img href="imgs/icon-tt.png"></img>
 
-Our research explores how digital preservation practitioners experience and navigate these learning challenges throughout their professional trajectories. In particular, we seek to understand what makes particular digital technologies troublesome to learn, how practitioners respond to these difficulties, what strategies and workarounds they develop, and which sources of knowledge and support they draw upon as they build competence.
+This site hosts the supporting documentation for the research project *Troublesome Technologies and Learning Trajectories in Digital Preservation Practice*, conducted by {{< var researcher.name >}} and {{< var pi.name >}} (Principal Investigator), {{< var school >}}, {{< var university >}}.
 
-::: {.credits}
-{{< include _includes/ethics-statement.qmd >}}
-:::
+This research explores how digital preservation practitioners experience and navigate these learning challenges throughout their professional trajectories. In particular, it seeks to understand what makes particular digital technologies troublesome to learn, how practitioners respond to these difficulties, what strategies and workarounds they develop, and which sources of knowledge and support they draw upon as they build competence.
 
-## Quicklinks
+ *Quicklinks*
 
 | Resource | Page | PDF |
 |---|---|---|
