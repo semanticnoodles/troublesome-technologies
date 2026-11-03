@@ -6,6 +6,12 @@ format:
 
 ---
 
+::: {.callout-note }
+
+<a href="https://semanticnoodles.github.io/troublesome-technologies/protocols/de-identification.html">Troublesome Technologies - De-identification Protocol</a> © 2026 by <a href="https://example.com">Giulia Osti, Amber Cushing</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+:::
+
 ::: {.content-visible when-format="html"}
 <a href="de-identification.pdf" class="btn btn-primary" download>Download the protocol as PDF</a>
 :::
