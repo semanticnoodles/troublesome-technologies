@@ -9,8 +9,8 @@ This site hosts the supporting documentation for the research project
 *Troublesome Technologies and Learning Trajectories in Digital
 Preservation Practice*, conducted by {{< var researcher.name >}} and
 {{< var pi.name >}}, {{< var school >}}, {{< var university >}}. The
-study has been classified as a low-risk study, {{< var ethics.body >}},
-approved by the {{< var ethics.ref >}}.
+study has been classified as a low-risk study, {{< var ethics.ref >}},
+approved by the {{< var ethics.body >}}.
 
 This research explores how digital preservation practitioners experience
 and navigate learning challenges throughout their professional
@@ -30,14 +30,3 @@ If you wish to cite the repository at whole:
 > Trajectories in Digital Preservation Practice* (Version 1.0)
 > \[Research materials\]. University College Dublin.
 > <https://semanticnoodles.github.io/troublesome-technologies/>
-
-::: {.callout-important icon="false"}
-## Are you a digital preservation practitioner?
-
-If you are 18+ and have at least one year hands-on experience working
-with digital technologies in an organisational setting (not exclusively
-in academia) we are looking to hear you out!
-
-<a href="https://eu.surveymonkey.com/r/tt-dir" class="btn btn-secondary" download>Take
-our survey</a>
-:::
