@@ -21,7 +21,7 @@ Do you work in digital preservation—including but not limited to managing repo
 
 If so, we invite you to participate in our 9-12 minute online survey, which forms the first research strand of the study '{{< var study.title >}}'. Your insights will help us better understand how practitioners build competence as technologies, standards, and workflows evolve throughout their careers.
 
-Taking part in this research is entirely voluntary. Please review the complete details of the Participant Information Leaflet below. If you decide to participate, click "Next" at the bottom of the page to proceed to the online informed consent declaration.
+Taking part in this research is entirely voluntary. Please review the complete details of the Participant Information Leaflet below.
 
 ### Contact Details
 
