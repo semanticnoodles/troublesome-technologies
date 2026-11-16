@@ -1,0 +1,135 @@
+---
+title: "Participant Information Leaflet (S2)"
+subtitle: "Qualitative Follow-up"
+format:
+  html: default
+
+---
+
+::: {.callout-note }
+
+<a href="https://semanticnoodles.github.io/troublesome-technologies/pil/strand-1-survey.html">Troublesome Technologies - Participant Information Leaflet: Online Survey (Strand 1)</a> © 2026 by <a href="https://example.com">Giulia Osti, Amber Cushing</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+:::
+
+::: {.content-visible when-format="html"}
+<a href="strand-2-qualitative.pdf" class="btn btn-primary" download>Download the leaflet as PDF</a>
+:::
+
+## Introductory statement - invitation to take part
+
+Thank you for your interest in the second phase of our research study, 'Troublesome Technologies and Learning Trajectories in Digital Preservation Practice'. When completing the Strand 1 survey, you indicated that you would be open to participating in a follow-up activity.
+
+We now invite you to participate in Strand 2, which consists of a written prompt-guided reflection and, for selected participants, a short online interview, each estimated to take 15-20 minutes. In this strand, we aim to delve deeper into the specific technology learning hurdles you identified in the survey, exploring the professional contexts, informal coping strategies, and support systems you used to navigate them.
+
+Taking part in this research is entirely voluntary. Please review the complete details of the Participant Information Leaflet below before deciding whether to participate.
+
+### Contact Details
+
+Dr Giulia Osti  
+(Co-Investigator / Research Enquiries)  
+School of Information and Communication Studies, University College Dublin  
+Email: [giulia.osti@ucd.ie](mailto:giulia.osti@ucd.ie)
+
+Assoc. Prof. Amber Cushing  
+(Principal Investigator)  
+School of Information and Communication Studies, University College Dublin  
+Email: [amber.cushing@ucd.ie](mailto:amber.cushing@ucd.ie)
+
+## Title of the research
+
+Troublesome Technologies and Learning Trajectories in Digital Preservation Practice
+
+## What is this research about? Why is this study being done?
+
+Digital preservation involves the practices and technologies used to ensure that digital materials remain accessible and usable over time, despite technological change, media failure, organisational change, and other challenges. This research explores how digital preservation practitioners experience and navigate these learning challenges throughout their professional trajectories. In particular, the study seeks to understand what makes particular digital technologies troublesome to learn, how practitioners respond to these difficulties, what strategies and workarounds they develop, and which sources of knowledge and support they draw upon as they build competence.
+
+This second strand builds directly upon the online survey, using qualitative methods to capture richer, nuanced narratives about real-world learning trajectories in digital preservation practice.
+
+## Why have I been invited to take part?
+
+You have been invited because you completed the Strand 1 online survey, voluntarily provided your email address to express interest in the follow-up study, and met the inclusion criteria for the research (self-identifying digital preservation practitioner aged 18 or over, with at least one year of professional, practical experience in digital preservation or a closely related area, experience of working with digital technologies, and hands-on experience in an organisational setting).
+
+## Do I have to take part?
+
+No. Taking part is entirely voluntary. You do not have to give a reason if you choose not to take part, and there will be no negative consequences for you if you decide not to participate.
+
+## What will happen if I decide to take part in this research study? What do I need to do?
+
+Strand 2 involves two components:
+
+1. Written Reflection: You will receive an email invitation containing your personalised reflection prompt (reflecting the technology you identified in Strand 1) and a personal link to an online form hosted on SurveyMonkey. The form presents the informed consent declaration and the option to type your reflection into a text box or upload it as a file (approx. 15-20 minutes to complete, though writing paces may differ among individuals).
+2. Short Semi-structured Interview: Depending on participant selection for this final step, you may also be invited to participate in a short online follow-up interview (approx. 15-20 minutes) conducted via UCD's institutional Zoom platform to discuss your experience and anything that emerged from your written reflection in greater detail.
+
+We encourage participation in both activities if you are selected and available; however, partial completion (taking part in the written reflection only) is fully respected. Indicating interest or completing the written reflection does not guarantee an interview invitation, nor does it oblige you to take part if invited. If you participate in an interview, it will be audio-recorded using UCD's institutional Zoom account for accurate transcription. You may keep your camera turned off if you prefer, as only the audio is required for our analysis.
+
+## Can I withdraw from the study? What happens if I change my mind?
+
+You may withdraw from Strand 2 at any time, without giving a reason, by contacting the research team. Because Strand 2 data is pseudonymised during collection, any written reflections, audio recordings, or interview transcripts you provide can be completely deleted upon request at any time prior to the end of February 2027 (30 days following the conclusion of Strand 2 data collection). At that point, key-linking files are permanently destroyed, rendering the dataset fully anonymous, and individual responses can no longer be identified or removed. If you withdraw from Strand 2, please tell us whether you would also like your Strand 1 survey answers removed. Withdrawing will have no negative effect on you.
+
+## What are the benefits of my participation in this research: to me, to the researchers, and to any third parties involved?
+
+Taking part in this study may not directly benefit you, although many participants find that reflecting on their career trajectories and learning experiences is a valuable professional exercise. Your detailed accounts will help us better understand how practitioners build competence as technologies, standards, and systems change.
+
+The outcomes of this study could benefit the wider digital preservation community, as well as educators and professional bodies that design training and professional development. The research also supports the academic work of the researchers, including scholarly publications and presentations. Interview transcripts will be generated using UCD's institutional Zoom account and checked by the research team; no third-party service provider gains any benefit from your data, and under UCD's enterprise agreements your data will not be used to train commercial AI models.
+
+## What are the risks of taking part in this research study?
+
+There are no anticipated major risks. Some participants may experience mild discomfort when recalling challenging or stressful learning experiences; you retain full control over what details you share. Because digital preservation is a relatively small professional field, there is a minor risk that someone could recognise you from specific details in a narrative answer (such as a unique job title or specific workplace setting). To mitigate this, the research team will screen and de-identify all written text and interview transcripts prior to analysis and publication (on request, you may review the de-identified version of your written reflection and/or interview transcript), following our project's De-identification Protocol.
+
+## How will I find out what happens with this research study?
+
+The findings from this research study will be reported in academic publications and presented at conferences, workshops, teaching, and other research or professional events. If you would like to receive information about the outcomes of the research, you can contact the research team using the contact details provided below. No information revealing your identity will ever be disclosed in any report or publication.
+
+## Data protection
+
+### What information about me will be used in this research study?
+
+We will use your email address (and, if you are invited to an interview, the name you give us when booking) strictly for research management purposes; your written reflection responses, and—if invited to participate in the short interview—the audio recording and transcript of that conversation will be used in qualitative data analysis. We do not intend to collect special-category personal data (such as information about your health, political opinions, or religious beliefs) as part of this study. Please avoid including such information in your responses. Technical telemetry data, such as IP addresses and location details, are disabled on the SurveyMonkey platform by the research team to ensure response privacy.
+
+### How will my data be used?
+
+All written reflections, audio recordings, and transcripts will be stored in UCD's OneDrive, protected by multi-factor authentication. Written reflections submitted via SurveyMonkey will be transferred to OneDrive and deleted from SurveyMonkey once data collection is complete. For interviews, only the audio recording and its transcript will be transferred from Zoom to OneDrive; the copies held on UCD's Zoom account are then deleted manually by the research team. If the quality of a Zoom transcript is insufficient, the de-identified transcript may be corrected using Google Gemini or, as a fallback, Microsoft Copilot Chat, in both cases through UCD's institutional account. Under UCD's enterprise agreement, these data are not used to train AI models or reviewed by humans. UCD records prompts and responses for security and compliance purposes, subject to its access controls, and the research team will delete the chat history after each use. All transcripts are checked and corrected by the research team against the audio. Derivative datasets will be exported for qualitative analysis (using CAQDAS software such as NVivo or Atlas.ti), de-identified prior to analysis. Analysis files will be stored in UCD OneDrive and accessed strictly on multi-factor authenticated devices by the primary research team. Using your unique Participant ID (PID), we will cross-reference your Strand 2 responses with your Strand 1 survey submission to contextualise your narrative. Anonymised quotations and qualitative themes may be included in academic publications and other research outputs.
+
+After publication, the anonymised dataset may be made available to other researchers for future research related to the aims of this project, in line with UCD research data management requirements. Your contact details, original audio recordings, and key-linking files will never be shared with anyone except the research team.
+
+### Who will have access to my personal data? What will happen to my personal data?
+
+UCD is the data controller primarily responsible for protecting your personal data. Only the primary research team (Assoc. Prof. Amber Cushing and Dr Giulia Osti) will have access to identifiable data, key-linking files, and raw recordings. SurveyMonkey (used for the online form), institutional cloud platforms (Microsoft 365 Enterprise), Google Gemini and Microsoft Copilot Chat (used only where needed to correct de-identified transcripts), and Zoom process data on UCD's behalf under formal enterprise agreements with UCD and may not use it for their own purposes, including training AI models.
+
+### How will my personal data be protected? Will it be kept confidential?
+
+Your identity will be kept strictly confidential. You will keep the same Participant ID (PID) that was assigned to you in Strand 1. Key pairs linking PIDs to personal identifiers (such as your name and email address) will be kept in password-protected, encrypted UCD-approved cloud storage (OneDrive) accessed with multi-factor authentication, accessible strictly by the PI and Dr Osti.
+
+Your email address and name will be kept separate from the dataset used for analysis and will never appear in the research dataset, publications, or other outputs. All research data are stored in UCD's OneDrive and on SurveyMonkey's EU-based servers, and any de-identified transcripts corrected with AI tools are processed within UCD's EU-based institutional environments; all are located within the European Economic Area (EEA), in compliance with UCD IT security policies.
+
+### How long will my data be retained by this project?
+
+The key linking your Participant ID (PID) to your personal contact details will be permanently deleted within 30 days after the conclusion of Strand 2 data collection, by the end of February 2027. Standalone email contact lists will be erased at the same time. Audio recordings stored in OneDrive will be permanently deleted as soon as transcripts have been verified and de-identified; the copies held on Zoom are deleted manually by the research team as soon as they have been transferred to OneDrive. The de-identified research dataset and analysis derivatives, which contain no personal or sensitive data, will be retained for 10 years following publication or public release of the work, in line with the UCD Research Data Management Policy.
+
+### What is the lawful basis to use my personal data?
+
+UCD relies on the legal bases of Article 6.1(a) (Consent) and Article 6.1(e) ('Public Interest' / Public Task) of the General Data Protection Regulation (GDPR) to process your personal data. Should any special category (sensitive) personal data be provided accidentally in text or spoken responses, Article 9.2(j) ('Scientific Research Purposes') applies, and the data will be redacted immediately. Giving consent for data processing under GDPR is separate from ethical consent to take part in the research.
+
+### What are my rights?
+
+You are entitled to:
+
+- Withdraw your consent at any time;
+- Object to UCD's use of your personal data or any further use;
+- Request access to your personal data and to receive a copy of it (up to the point of full anonymisation, when key-linking files are destroyed);
+- Request inaccurate personal data be corrected or deleted;
+- Request restriction of UCD's use of your personal data (if it is inaccurate); and
+- Request deletion of your data, if no longer needed.
+
+By law, you can exercise the above rights in relation to your personal data unless certain limitations apply, for example where the request would make it impossible or very difficult to conduct the research or put the quality of the research findings at risk (such as after data have been fully anonymised or published).
+
+### Contact details
+
+If you have questions or require reasonable accommodations/adjustments to complete the survey, please contact the research team. If any questions are not answered in a satisfactory manner, contact can be made with the UCD Data Protection Officer. Finally, if none of the UCD contacts have given a satisfactory response, you have the right to lodge a complaint with the Data Protection Commission.
+
+- Project investigators:
+  - Dr Giulia Osti: [giulia.osti@ucd.ie](mailto:giulia.osti@ucd.ie)
+  - Assoc. Prof. Amber Cushing: [amber.cushing@ucd.ie](mailto:amber.cushing@ucd.ie)
+- UCD Data Protection Officer (DPO): [gdpr@ucd.ie](mailto:gdpr@ucd.ie)
+- Data Protection Commission (DPC): [https://forms.dataprotection.ie/contact](https://forms.dataprotection.ie/contact)

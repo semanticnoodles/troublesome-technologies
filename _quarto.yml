@@ -21,9 +21,9 @@ website:
       - href: index.qmd
         text: Home
       - href: pil/strand-1-survey.qmd
-        text: "Participant Information Leaflet (S1)"
-          # - href: pil/strand-2-followup.qmd
-          #   text: "Strand 2: Follow-up"
+        text: "PIL (S1): Online Survey"
+      - href: pil/strand-2-qualitative.qmd
+        text: "PIL (S2): Qualitative Follow-up"
       - href: protocols/de-identification.qmd
         text: De-identification Protocol
       - href: contacts.qmd
